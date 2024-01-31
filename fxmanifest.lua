@@ -1,5 +1,6 @@
 fx_version "cerulean"
 game "gta5"
+author "piitszk"
 
 ui_page "web-side/app.html"
 
